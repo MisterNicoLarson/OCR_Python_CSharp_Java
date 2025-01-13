@@ -1,0 +1,17 @@
+Licence MIASHS
+Master NLP
+→ Alternance
+→ Approche base de regles
+→ Approche IA
+→ comparaison de différents model.
+PWC :
+- Power BI → main mission
+- Python
+- Alteryx → data cleaning
+- Uipath
+Fujitsu :
+- UiPath → ma super entreprise
+KYD :
+- Power Automate backup
+- Python ETL → pyodbc
+- Python Software
