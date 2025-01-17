@@ -1,0 +1,5 @@
+# Created at 2025-01-17T14:50:37.642
+Boot Manifest-JAR contains absolute paths in classpath 'E:\Github\OCR_Python_CSharp_Java\OCR_Java\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
